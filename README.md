@@ -11,6 +11,9 @@ target and (b) accepting the next move to make from the player.
 
 ![Image Alt](https://github.com/FahimAlvi/Risc-V-Assembly-Sokoban/blob/1b9ce46d63a2e72329574cf58cf9bc88d44d510c/title.jpg)
 
+![gameplaygif](https://github.com/user-attachments/assets/1d111763-2b8b-476d-a83f-9d3886b4dbe6)
+
+
  How to Launch
  CPUlator link: https://cpulator.01xz.net/?sys=rv32-spim
 
