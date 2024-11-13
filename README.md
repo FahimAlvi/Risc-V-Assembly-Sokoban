@@ -18,7 +18,7 @@ target and (b) accepting the next move to make from the player.
 
 How to play
 
-![Image Alt](https://github.com/FahimAlvi/Risc-V-Assembly-Sokoban/blob/1b9ce46d63a2e72329574cf58cf9bc88d44d510c/How%20to%20launch.jpg)
+![Image Alt](https://github.com/FahimAlvi/Risc-V-Assembly-Sokoban/blob/0ebae00b384b08cd4f4ab9d7a31fdb939f0b8cd8/controls.jpg)
 
 
 CSC258 Project
