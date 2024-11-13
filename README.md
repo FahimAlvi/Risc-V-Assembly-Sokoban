@@ -9,4 +9,16 @@ We will mimic the core game-play. You will use the console to interact with a pl
 board on the console using symbols (of your choice) to represent the character, boxes, walls, and
 target and (b) accepting the next move to make from the player. 
 
+![Image Alt](https://github.com/FahimAlvi/Risc-V-Assembly-Sokoban/blob/1b9ce46d63a2e72329574cf58cf9bc88d44d510c/title.jpg)
 
+ How to Launch
+ CPUlator link: https://cpulator.01xz.net/?sys=rv32-spim
+
+![Image Alt](https://github.com/FahimAlvi/Risc-V-Assembly-Sokoban/blob/1b9ce46d63a2e72329574cf58cf9bc88d44d510c/How%20to%20launch.jpg)
+
+How to play
+
+![Image Alt](https://github.com/FahimAlvi/Risc-V-Assembly-Sokoban/blob/1b9ce46d63a2e72329574cf58cf9bc88d44d510c/How%20to%20launch.jpg)
+
+
+CSC258 Project
